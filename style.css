@@ -122,7 +122,7 @@ html {
 
 @media (max-width: 768px) {
     .guarda-chuva {
-        max-width: 100px;  
+        max-width: 300px;  
         width: 90%;
     }
 }
