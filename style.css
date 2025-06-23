@@ -109,9 +109,20 @@ html {
         font-size: 1em;
     }
 
-    img {
-        max-width: 60%;
-        height: auto;
-    }
+}
 
+.guarda-chuva {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+
+@media (max-width: 768px) {
+    .imagem-sobre {
+        max-width: 300px;  
+        width: 90%;
+    }
 }
